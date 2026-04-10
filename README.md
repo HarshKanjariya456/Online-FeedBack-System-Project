@@ -1,8 +1,8 @@
 # Online-FeedBack-System-Project
-📖 Overview
+📖 Overview :
 The Online Feedback System is a web-based application designed to collect, manage, and analyze user feedback efficiently. It allows users to submit feedback and enables administrators to view, organize, and respond to it in a structured way.
 
-🚀 Features
+🚀 Features :
 📝 User-friendly feedback submission form
 🔐 Secure data handling
 📊 Admin dashboard to view feedback
@@ -10,7 +10,7 @@ The Online Feedback System is a web-based application designed to collect, manag
 ✏️ Edit/Delete feedback (if implemented)
 📱 Responsive design for all devices
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js / Express.js
 Database: MongoDB
